@@ -10,6 +10,11 @@ We can use this ratio to compute an approximation of pi using a Monte Carlo meth
 
 This code provides a visualisation tool to see this relationship.
 
+<!--Default image size is 700 758-->
+<p align="center">
+<img src="demo.gif" width="350" height="379" />
+</p>
+
 ## Setup
 
 In terminal (mac) or command prompt (windows) clone the repository with:
